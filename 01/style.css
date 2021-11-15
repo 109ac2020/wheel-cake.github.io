@@ -1,0 +1,284 @@
+.header{
+    padding: 50px 0px 0px 74px;
+    
+    display: flex;
+}
+
+.logo{
+  width: 89px;
+  height: 121px;
+  
+  
+}
+.body{
+  
+  
+}
+
+.background{
+  width: 1519px;
+  
+  display: flex;
+  margin-left:0px;
+  margin-top: 0px;
+  position: absolute;
+  z-index: -2;
+}
+.nav-box{
+  
+}
+
+.nav-list{
+    display: flex;
+    padding-inline-start: 0px;
+}
+  
+  
+  .nav-list-item{
+    margin: 0 0 0 60px;
+    font-family: Arial;
+    font-size: 22px;
+    text-align: left;
+    list-style: none;
+    font-weight: 900;
+  }
+
+  a{
+    color: #57648C;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #CBABCC;
+    text-decoration: none;
+    
+}
+.ham{
+  width: 28px;
+  height: 28px;
+  margin: 37px 0 0 570px;
+
+}
+
+.nav-li{
+  display: flex;
+  padding-inline-start: 0px;
+}
+
+
+.nav-li-i{
+  margin: 0 0 0 76px;
+  font-family: Arial;
+  font-size: 16px;
+  text-align: left;
+  list-style: none;
+  font-weight: 900;
+  font-size: 80%;
+  color: #57648C;
+}
+
+.title{
+  font-family: sans-serif;
+  font-size: 30px;
+  padding: 150px 0 0 133px;
+  color: #CBABCC;
+  width: 154px;
+  height: 44px;
+  letter-spacing: 0.1em;
+  margin-bottom: 15px;
+}
+
+.title-1{
+  font-style: normal;
+  font-weight: 550;
+  font-size: 72px;
+  line-height: 98px;
+  font-family: sans-serif;
+  letter-spacing: 0.1em;
+  padding: 0px 0 0 133px;
+  margin: 0 ;
+  color: #57648C;
+}
+
+.title-2{
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 34px;
+padding: 0px 0 0 133px;
+letter-spacing: 0.1em;
+font-family: sans-serif;
+color: #CBABCC;
+}
+
+.nav_eat{
+  margin: 0 0 0 201px; 
+}
+
+.img-foodbox{
+  margin: 235px 0 0 125px;
+  display: flex;
+  padding: 0 0 0 60px;
+}
+.img-food{
+  width: 80px;
+  height: 80px;
+  margin: 0 0 0 10px;
+  padding: 10px 0 0;
+}
+
+.circle{
+  width:100px;
+  height: 100px;   
+  border-radius:999em;
+  background-color:#C2B4D6;
+  
+  margin: 0px 0 0 40px;
+  }
+
+
+.foot{
+  width: 1519px;
+  z-index: -1;
+  position: absolute;
+  margin: -920px 0 0 0;
+  }
+
+  .big-tire{
+    width: 460px;
+    position: absolute;
+    margin: 290px 0 0 769px;
+  }
+
+  .f-i{
+    width: 28px;
+    z-index: 3;
+
+  }
+
+  .f-i-box{
+    display: flex;
+    justify-content:space-around;
+    width: 180px;
+    height: 30px;
+    margin-left: 669.6px;
+    position: absolute;
+  }
+
+.p{
+position: absolute;
+width: 190px;
+height: 20px;
+left: 664.6px;
+top: 1048px;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+letter-spacing: 0.1em;
+z-index: 5;
+color: #C2B4D6;
+  }
+
+
+  .menu{
+    position: absolute;
+    margin: -88px 0 0 170px;
+  }
+
+  .tire-2{
+    position: absolute;
+    width: 130px;
+    transform: rotate(45deg);
+    margin-left: 1070px;
+    margin-top: -30px;
+  }
+
+  .tire-3{
+    position: absolute;
+    width: 168px;
+    transform: rotate(-45deg);
+    margin-left: 1200px;
+    margin-top: -180px;
+    
+  }
+
+  .like{
+    width: 1300px;
+    position: absolute;
+    margin: -100px 0 0 109.6px;
+    z-index: -1;
+  }
+
+  .p2-title{
+    display: flex;
+    margin: 370px 0 0 0;
+    justify-content: center;
+  }
+
+  .logo-no{
+    width: 78px;
+    height: 78px;
+  }
+  .p2-h1{
+
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #57648C;
+    margin-left: 25px;
+
+  }
+
+  .limite{
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+  }
+
+  .nav-li-i2{
+    display: flex;
+    justify-content: center;
+    width: 202px;
+    height: 46px;
+    font-family: Noticia Text;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #57648C;
+
+  }
+
+  .nav-li2{
+    display: flex;
+    justify-content: center;
+    padding-inline-start: 0px;
+  }
+
+  .p3-title{
+    display: flex;
+    justify-content: center;
+  }
+
+  .p3-1{
+    display: flex;
+    justify-content: center;
+  }
+
+  .p3-p{
+    font-family: Noticia Text;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 40px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #717171;
+    text-align: justify;
+text-justify:inter-ideograph;
+  }
